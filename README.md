@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+Hi there! 👋 My name is Rohit 🙋🏽‍♂️
+</h1>
 
-<!--
-**color3320/color3320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+      Currently, I am looking for internships in the field of Data Science.
+</p>
 
-Here are some ideas to get you started:
+- 🎓 I've completed my bachelors degree from the field of Electronics and Telecommunication.
+- 💻 I'm self-proclaimed proficient at `python` and `sql`, while picking up relevent `engineering` skills.
+- 📚 I'm currently learning Machine Learning and how deploy ML models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="ipynb" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="power bi" width="110" height="65"/>
+</p>
