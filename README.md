@@ -2,12 +2,13 @@
 Hi there! 👋 My name is Rohit 🙋🏽‍♂️
 </h1>
 <p align="center">
-      Currently, I am looking for internships/jobs in the field of Data Science.
+      Currently, I am currently working on finding internships/jobs in the field of Data Science.
 </p>
 
 - 🎓 I've completed my bachelors degree from the field of Electronics and Telecommunication.
-- 💻 I'm aspiring Data Analyst proficient at `python`,`sql` and passionate about technology and data analysis.
-- 📚 I'm currently learning Machine Learning and how deploy ML models.
+- 💻 I'm aspiring Data Analyst proficient at `python`,`sql` and `Data Visualization` and I love to talk about Data Science.
+- 📚 I'm currently learning Machine Learning and how it is used in data analysis.
+- 🎨 I'm experienced in developing interactive data visualization dashboards with insights, you can access the dashboard [here](https://www.novypro.com/profile_projects/rohitbarhate) Feel free to explore and let me know your feedback!
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -19,7 +20,7 @@ Hi there! 👋 My name is Rohit 🙋🏽‍♂️
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I'm always excited to connect with fellow developers and professionals. You can reach me via:</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-barhate-381706246)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rohit.barhate28@gmail.com)
