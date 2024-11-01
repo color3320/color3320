@@ -2,7 +2,7 @@
 Hi there! 👋 My name is Rohit 🙋🏽‍♂️
 </h1>
 <p align="center">
-      Currently, I am currently working on finding internships/jobs in the field of Data Science.
+      Currently, I am currently working on finding internships/jobs in the field of Data Science or Engineering.
 </p>
 
 - 🎓 I've completed my bachelors degree from the field of Electronics and Telecommunication.
