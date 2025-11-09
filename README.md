@@ -1,14 +1,14 @@
 <h1 align="center">
-Hi there! 👋 My name is Rohit 🙋🏽‍♂️
+Hi there! My name is Rohit!
 </h1>
 <p align="center">
-      Currently, I am currently working on finding internships/jobs in the field of Data Science or Engineering.
+      I'm an AI Software Developer and graduated M.Sc. Data Analytics student at the National University of Ireland, Galway. I have over a year of professional experience in analytics, machine learning, and software development.
 </p>
 
-- 🎓 I've completed my bachelors degree from the field of Electronics and Telecommunication.
-- 💻 I'm aspiring Data Analyst proficient at `python`,`sql` and `Data Visualization` and I love to talk about Data Science.
-- 📚 I'm currently learning Machine Learning and how it is used in data analysis.
-- 🎨 I'm experienced in developing interactive data visualization dashboards with insights, you can access the dashboard [here](https://www.novypro.com/profile_projects/rohitbarhate) Feel free to explore and let me know your feedback!
+- 🌱 I'm currently exploring predictive analytics for sustainability and optimizing building energy efficiency.
+- 🚀 I love building and deploying solutions using Python, React, FastAPI, and AWS.
+- 💡 In my last role, I helped automate workflows using the OpenAI API, which resulted in a 40% time saving for the team.
+- 🎨 I'm experienced in developing interactive data visualization dashboards with insights, you can access the dashboard [here](https://www.novypro.com/profile_projects/rohitbarhate) 
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
