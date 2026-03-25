@@ -2,7 +2,7 @@
 Hi there! My name is Rohit!
 </h1>
 <p align="center">
-      I'm an AI Software Developer and graduated M.Sc. Data Analytics student at the National University of Ireland, Galway. I have over a year of professional experience as Data and Operations Analyst working in analytics, machine learning, and software development.
+      I'm an AI Software Developer and graduated M.Sc. Data Analytics student at the National University of Ireland, Galway. I have two years of professional experience as Software Developer and Data and Operations Analyst working in analytics, machine learning, and software development.
 </p>
 
 - 🌱 I'm currently exploring predictive analytics for sustainability and optimizing building energy efficiency.
